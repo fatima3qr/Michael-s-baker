@@ -1,0 +1,6 @@
+{
+  "name": "Michael's Baker",
+  "description": "Michael's Baker creates handcrafted custom cakes, cupcakes and desserts for birthdays, weddings and special celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
